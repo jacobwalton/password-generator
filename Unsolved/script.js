@@ -71,6 +71,8 @@ else {
     alert ("Must be a valid response (y/n)");
     
 }
+// add "for" prompt to ask how many characters should be used
+// create loop to return a random string from usableChar array (loop the amount of times given in prompt)
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
