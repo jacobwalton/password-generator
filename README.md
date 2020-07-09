@@ -7,3 +7,4 @@ Using functions, conditionals, arrays and methods, I've tried my best to create 
 # team-profile-generator
 # note-taker
 # burger-logger
+# workout-tracker
