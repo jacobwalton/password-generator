@@ -9,3 +9,4 @@ Using functions, conditionals, arrays and methods, I've tried my best to create 
 # burger-logger
 # workout-tracker
 # workout-tracker
+# employee-directory
